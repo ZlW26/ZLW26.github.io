@@ -32,7 +32,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 </li>li
 
 <li>
-[13] <b>Zeli Wang</b>, Yifan Guan, <b>Longlong Lin</b>*, Guoyin Wang. GFork: A Gated Fusion Network on Multi-granularity Heterogeneous Pruning Graphs for Effective Text Classification. Expert Systems With Applications (ESWA), 2026, 313: 131587 (中科院一区top) 
+[13] <b>Zeli Wang</b>, Yifan Guan, Longlong Lin, Guoyin Wang. GFork: A Gated Fusion Network on Multi-granularity Heterogeneous Pruning Graphs for Effective Text Classification. Expert Systems With Applications (ESWA), 2026, 313: 131587 (中科院一区top) 
 </li>
 
 <li>
@@ -60,11 +60,11 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 </li>	
 
 <li>
-[6] <b>Zeli Wang</b>, Tuo Zhang, Shuyin Xia, <b>Longlong Lin</b>, Guoyin Wang. GBRAIN: Combating Textual Label Noise by Granular-ball Robust Training. ICMR, 2024 (CCF-B会议, Oral) 
+[6] <b>Zeli Wang</b>, Tuo Zhang, Shuyin Xia, Longlong Lin, Guoyin Wang. GBRAIN: Combating Textual Label Noise by Granular-ball Robust Training. ICMR, 2024 (CCF-B会议, Oral) 
 </li>	
 
 <li>
-[5] <b>Zeli Wang</b>, Jian Li, Shuyin Xia, <b>Longlong Lin</b>, Guoyin Wang. Text Adversarial Defense via Granular-Ball Sample Enhancement. ICMR, 2024 (CCF-B会议, Oral)
+[5] <b>Zeli Wang</b>, Jian Li, Shuyin Xia, Longlong Lin, Guoyin Wang. Text Adversarial Defense via Granular-Ball Sample Enhancement. ICMR, 2024 (CCF-B会议, Oral)
 </li>
 
 <li>
