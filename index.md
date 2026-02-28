@@ -36,7 +36,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 </li>
 
 <li>
-[12] <b>Zeli Wang</b>, Tianhao Pu, Shuyin Xia, Longlong Lin, Linpin Liu, Guoyin Wang. GBDE: Granular-Ball Textual Adversarial Attacks With Differential Evolution. IEEE Transactions on Big Data (TBD), doi: 10.1109/TBDATA.2025.3644670. (<b> <font color="#FF0000">CCF-A会议</font> </b>)  
+[12] <b>Zeli Wang</b>, Tianhao Pu, Shuyin Xia, Longlong Lin, Linpin Liu, Guoyin Wang. GBDE: Granular-Ball Textual Adversarial Attacks With Differential Evolution. IEEE Transactions on Big Data (TBD), doi: 10.1109/TBDATA.2025.3644670. (<b> <font color="#FF0000">IEEE Trans</font> </b>)  
 </li>
 
 <li>
@@ -72,7 +72,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 </li>
 
 <li>
-[3] Hai Jin, <b>Zeli Wang（导师一作）</b>, Ming Wen, Weiqi Dai, Yu Zhu, Deqing Zou. Aroc: An Automatic Repair Framework for On-chain Smart Contracts. IEEE Transactions on Software Engineering, 2022, 48(11):4611-4629
+[3] Hai Jin, <b>Zeli Wang（导师一作）</b>, Ming Wen, Weiqi Dai, Yu Zhu, Deqing Zou. Aroc: An Automatic Repair Framework for On-chain Smart Contracts. IEEE Transactions on Software Engineering, 2022, 48(11):4611-4629 (<b> <font color="#FF0000">CCF-A 期刊</font> </b>)
 </li>
 
 <li>
