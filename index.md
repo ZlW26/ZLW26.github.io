@@ -72,7 +72,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 </li>
 
 <li>
-[3] Hai Jin, <b>Zeli Wang（导师一作）</b>, Ming Wen, Weiqi Dai, Yu Zhu, Deqing Zou. Aroc: An Automatic Repair Framework for On-chain Smart Contracts. IEEE Transactions on Software Engineering, 2022, 48(11):4611-4629 (<b> <font color="#FF0000">CCF-A 期刊</font> </b>)
+[3] Hai Jin, <b>Zeli Wang（导师一作）</b>, Ming Wen, Weiqi Dai, Yu Zhu, Deqing Zou. Aroc: An Automatic Repair Framework for On-chain Smart Contracts. IEEE Transactions on Software Engineering, 2022, 48(11):4611-4629  (<b> <font color="#FF0000">CCF-A期刊</font> </b>)
 </li>
 
 <li>
@@ -85,9 +85,6 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
    </ul>
 </font>
 
-
-   </ul>
-</font>
 
 
 
