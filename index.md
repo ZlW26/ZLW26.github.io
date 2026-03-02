@@ -20,7 +20,7 @@ software security, LLM hallucination mitigation, adversarial attacks and defense
 
 ___
 ## Selected Publications
-A full list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=UqGQ5HgAAAAJ&hl=zh-CN). * indicates corresponding author. * indicates contributed equally.
+A full list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=UqGQ5HgAAAAJ&hl=zh-CN). * indicates corresponding author. 
 <br><be>
 
    <p> <b> <font color="#2554C7"> </font> </b> </p>
@@ -29,7 +29,7 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 
 <li>
 [14] Longlong Lin, <b>Zeli Wang*</b>, Rong-Hua Li, Xiaohai Dai, Li Ni and Jin Zhao. Scalable and Provable Biclique-Preserving Clustering: The Power of Counting-based Approaches. The 2026 ACM Web Conference  (WWW). 2026
-</li>li
+</li>
 
 <li>
 [13] <b>Zeli Wang</b>, Yifan Guan, Longlong Lin, Guoyin Wang. GFork: A Gated Fusion Network on Multi-granularity Heterogeneous Pruning Graphs for Effective Text Classification. Expert Systems With Applications (ESWA), 2026, 313: 131587 (中科院一区top) 
@@ -85,6 +85,8 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
    </ul>
 </font>
 
+___
+## Selected Publications
 
 
 
