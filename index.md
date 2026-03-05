@@ -4,7 +4,7 @@ permalink: /
 ---
 
 ## About
-Zeli Wang is a lecturer at Chongqing University of Posts and Telecommunications. She received  a Ph.D. from Huazhong University of Science and Technology (HUST), China, in 2022, advised by [Prof. Hai Jin](https://scholar.google.com/citations?user=o02W0aEAAAAJ&hl=en). Her work has been published in several CCF-A conferences and journals,  including ICDE, KDD, WWW, TKDE, and TSE.  If you are interested in collaborating with me or would like to have a chat, please feel free to email me.
+Zeli Wang is a lecturer at Chongqing University of Posts and Telecommunications. She received  a Ph.D. from Huazhong University of Science and Technology (HUST), China, in 2022, advised by [Prof. Hai Jin](https://scholar.google.com/citations?user=o02W0aEAAAAJ&hl=en). Her work has been published in several CCF-A conferences and journals,  including KDD, WWW, TKDE, and TSE.  If you are interested in collaborating with me or would like to have a chat, please feel free to email me.
 <br>
 
 ___
@@ -12,7 +12,7 @@ ___
 
 software security, LLM hallucination mitigation, adversarial attacks and defenses in GNN/NLP/LLM. 
 
-<b> <font color="#FF0000">[招生信息]</font> </b>: 每年计划招3-5名硕士生. 欢迎保研或者考研的学生给我发email (zlwang@cqupt.edu.cn). 同时长期招收大一/大二本科生,但有如下要求：1.以培养科研方法论为目的; 2.每周开组会，由我亲自指导，并讨论出具体的研究问题和算法框架。
+<b> <font color="#FF0000">[招生信息]</font> </b>: 每年计划招3-5名硕士生. 欢迎保研或者考研的学生给我发email (zlwang@cqupt.edu.cn). 同时长期招收大一/大二本科生，我会对每个学生的论文从方向选择、想法制定以及论文写作均给予详细的指导，希望找我的学生积极主动，善于沟通和思考。
 <br><br>
 
 
@@ -28,7 +28,12 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 <ul>
 
 <li>
-[14] Longlong Lin, <b>Zeli Wang*</b>, Rong-Hua Li, Xiaohai Dai, Li Ni and Jin Zhao. Scalable and Provable Biclique-Preserving Clustering: The Power of Counting-based Approaches. The 2026 ACM Web Conference  (WWW). 2026
+[15] <b>Zeli Wang</b>, Jie Li, Zhiqiu Ye, Longlong Lin, Mengdi Wang, Guoyin Wang. Attribute-augmented PPR Meets Self-loops: Simple yet Effective Defending Graph Neural Networks. IEEE/CAA Journal of Automatica Sinica (JAS), 2026. (中科院S一区top, 影响因子：19.2) 
+</li>
+
+
+<li>
+[14] Longlong Lin, <b>Zeli Wang*</b>, Rong-Hua Li, Xiaohai Dai, Li Ni and Jin Zhao. Scalable and Provable Biclique-Preserving Clustering: The Power of Counting-based Approaches. The 2026 ACM Web Conference  (WWW). 2026  (<b> <font color="#FF0000">CCF-A期刊</font> </b>) 
 </li>
 
 <li>
@@ -44,11 +49,11 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 </li>
 
 <li>
-[10] Longlong Lin, Quanao Li, Miao Qiao, <b>Zeli Wang</b>, Jin Zhao, Rong-Hua Li,  Xin Luo,  Tao Jia. NCSAC: Effective Neural Community Search via Attribute-augmented Conductance. IEEE Transactions on Knowledge and Data Engineering, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>)  (二作为独立指导的研究生)
+[10] Longlong Lin, Quanao Li, Miao Qiao, <b>Zeli Wang</b>, Jin Zhao, Rong-Hua Li,  Xin Luo,  Tao Jia. NCSAC: Effective Neural Community Search via Attribute-augmented Conductance. IEEE Transactions on Knowledge and Data Engineering, 2026 (<b> <font color="#FF0000">CCF-A期刊</font> </b>) 
 </li>	
 
 <li>
-[9] Zhiqiu Ye, Longlong Lin, Jie Li, Tao Liu, <b>Zeli Wang*</b>. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2025: 128983. (中科院一区) (一作为独立指导的本科生)
+[9] Zhiqiu Ye, Longlong Lin, Jie Li, Tao Liu, <b>Zeli Wang*</b>. GDBA: Defending Graph Neural Networks via Attribute Debiasing. Expert Systems With Applications, 2025: 128983. (中科院一区) 
 </li>
 
 <li>
@@ -85,8 +90,6 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
    </ul>
 </font>
 
-___
-## Selected Publications
 
 
 
