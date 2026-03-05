@@ -28,12 +28,12 @@ A full list of publications can be found at [Google Scholar](https://scholar.goo
 <ul>
 
 <li>
-[15] <b>Zeli Wang</b>, Jie Li, Zhiqiu Ye, Longlong Lin, Mengdi Wang, Guoyin Wang. Attribute-augmented PPR Meets Self-loops: Simple yet Effective Defending Graph Neural Networks. IEEE/CAA Journal of Automatica Sinica (JAS), 2026. (中科院S一区top, 影响因子：19.2) 
+[15] <b>Zeli Wang</b>, Jie Li, Zhiqiu Ye, Longlong Lin, Mengdi Wang, Guoyin Wang. Attribute-augmented PPR Meets Self-loops: Simple yet Effective Defending Graph Neural Networks. IEEE/CAA Journal of Automatica Sinica (JAS), 2026. (中科院一区top, 影响因子：19.2) 
 </li>
 
 
 <li>
-[14] Longlong Lin, <b>Zeli Wang*</b>, Rong-Hua Li, Xiaohai Dai, Li Ni and Jin Zhao. Scalable and Provable Biclique-Preserving Clustering: The Power of Counting-based Approaches. The 2026 ACM Web Conference  (WWW). 2026  (<b> <font color="#FF0000">CCF-A期刊</font> </b>) 
+[14] Longlong Lin, <b>Zeli Wang*</b>, Rong-Hua Li, Xiaohai Dai, Li Ni and Jin Zhao. Scalable and Provable Biclique-Preserving Clustering: The Power of Counting-based Approaches. The 2026 ACM Web Conference  (WWW). 2026  (<b> <font color="#FF0000">CCF-A会议</font> </b>) 
 </li>
 
 <li>
